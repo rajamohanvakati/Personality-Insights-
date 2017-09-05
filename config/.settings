@@ -1,0 +1,17 @@
+{
+    "projectName": "Personality Insights",
+    "username": "rajamohanvakati@forescout.com",
+    "id": "eef634d0-91f4-11e7-8649-91ef9b9a5938",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://trailte-dev-ed.my.salesforce.com",
+    "workspace": "C:\\Users\\rvakati\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
